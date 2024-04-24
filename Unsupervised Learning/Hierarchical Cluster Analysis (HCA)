@@ -23,7 +23,7 @@ How It Works
 5. Represent the clustering process using a dendrogram.
 
 Mathematical Model
-(Optional inclusion of specific linkage criteria mathematical formulae, such as Ward's method or average linkage.)
+Hierarchical Cluster Analysis uses different linkage criteria to determine the similarity between clusters, influencing the cluster formation process. 
 
 Pseudocode
 ```
