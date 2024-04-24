@@ -60,11 +60,11 @@ References and Further Reading
 
 Contributing to MLpedia
 
-We welcome contributions from the community! Whether you're adding new algorithms, improving existing documentation, or providing translations, your help is invaluable. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+We welcome contributions from the community! Whether you're adding new algorithms, improving existing documentation, or providing translations, your help is invaluable. Please see our [CONTRIBUTING.md](https://github.com/NeeravSood/MLpedia/blob/main/Contributing.md) for guidelines on how to contribute.
 
 License
 
-MLpedia is open-sourced under the GNU General Public License v3.0 license.
+MLpedia is open-sourced under the GNU General Public License v3.0 license. For more information, refer to [License](https://github.com/NeeravSood/MLpedia/blob/main/LICENSE) 
 
 Contact
 If you have any questions, suggestions, or want to discuss potential collaborations, please reach out to us via GitHub issues.
