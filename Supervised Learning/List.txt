@@ -1,1 +1,22 @@
+List of Supervised Learning Algorithms
 
+Linear Regression
+Logistic Regression
+Decision Trees
+Support Vector Machines (SVM)
+Naive Bayes
+K-Nearest Neighbors (KNN)
+Random Forests
+Gradient Boosting Machines (GBM)
+Adaptive Boosting (AdaBoost)
+Extra Trees
+Ridge Regression
+Lasso Regression
+Elastic Net
+Least Angle Regression (LARS)
+Orthogonal Matching Pursuit
+Bayesian Ridge Regression
+Stochastic Gradient Descent
+Perceptron
+Passive Aggressive Algorithms
+Kernel Ridge Regression
