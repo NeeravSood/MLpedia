@@ -1,1 +1,17 @@
+List
 
+K-Means Clustering
+Hierarchical Cluster Analysis (HCA)
+Expectation Maximization
+Principal Component Analysis (PCA)
+Independent Component Analysis (ICA)
+Autoencoders
+DBSCAN
+t-Distributed Stochastic Neighbor Embedding (t-SNE)
+Latent Dirichlet Allocation (LDA)
+Gaussian Mixture Model (GMM)
+Self-Organizing Map (SOM)
+Fuzzy C-means Clustering
+Spectral Clustering
+Anomaly Detection with Isolation Forest
+Agglomerative Clustering
