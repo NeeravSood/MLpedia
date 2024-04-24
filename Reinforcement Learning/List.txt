@@ -1,0 +1,13 @@
+List
+
+Q-Learning
+SARSA (State-Action-Reward-State-Action)
+Deep Q Network (DQN)
+Monte Carlo Tree Search (MCTS)
+Proximal Policy Optimization (PPO)
+Actor-Critic Methods
+Deep Deterministic Policy Gradient (DDPG)
+Asynchronous Actor-Critic Agents (A3C)
+Soft Actor-Critic (SAC)
+Trust Region Policy Optimization (TRPO)
+Natural Actor-Critic
