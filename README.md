@@ -10,25 +10,25 @@ MLpedia aims to cover a wide range of machine learning algorithms from basic to 
 Each algorithm in MLpedia follows a standard documentation format to ensure clarity and ease of use:
 
 <h3>Template for Algorithm Documentation</h3>
-**Algorithm Name:**
-**Type:** Supervised/Unsupervised/Reinforcement Learning  
-**Category:** Classification/Regression/Clustering/etc.
+<h4>Algorithm Name:</h4>
+<h4>Type:</h4> Supervised/Unsupervised/Reinforcement Learning  
+<h4>Category:</h4> Classification/Regression/Clustering/etc.
 
-**Overview**
+<h4>Overview</h4>
 A brief description of the algorithm, including its historical development and theoretical basis.
 
-**Key Concepts**
+<h4>Key Concepts</h4>
 - Concept 1: Description
 - Concept 2: Description
 - Concept 3: Description
 
-**How It Works**
+<h4>How It Works</h4>
 An easy-to-follow explanation of the algorithm's workings, broken down into manageable steps or phases.
 
-**Mathematical Model**
+<h4>Mathematical Model</h4>
 (Optional) A concise mathematical representation of the algorithm, if applicable.
 
-**Pseudocode**
+<h4>Pseudocode</h4>
 Implementation (Language-Specific)
 Example code snippet or a link to a more detailed implementation in the repository.
 
@@ -39,18 +39,18 @@ def algorithm_example(params):
     return result
 ```
 
-**Applications**
+<h4>Applications</h4>
 List of common practical applications of the algorithm, illustrating its real-world utility.
 
-**Strengths**
+<h4>Strengths</h4>
 - Strength 1: Explanation
 - Strength 2: Explanation
 
-**Limitations**
+<h4>Limitations</h4>
 - Limitation 1: Explanation
 - Limitation 2: Explanation
 
-**References and Further Reading**
+<h4>References and Further Reading</h4>
 1. Title: Link or citation
 2. Title: Link or citation
 3. Title: Link or citation
