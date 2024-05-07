@@ -11,7 +11,7 @@ MLpedia aims to cover a wide range of machine learning algorithms from basic to 
 
 Each algorithm in MLpedia follows a standard documentation format to ensure clarity and ease of use:
 
-<h3>**Template for Algorithm Documentation**</h3>h3>
+<h3>**Template for Algorithm Documentation**</h3>
 
 **Algorithm Name:**
 **Type**: Supervised/Unsupervised/Reinforcement Learning  
