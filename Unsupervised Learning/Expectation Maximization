@@ -1,6 +1,6 @@
-Algorithm Name: Expectation Maximization (EM)  
-Type: Unsupervised Learning  
-Category: Clustering/Density Estimation
+<h2>Algorithm Name:</h2> Expectation Maximization (EM)  
+<h2>Type:</h2> Unsupervised Learning  
+<h2>Category:</h2> Clustering/Density Estimation
 
 Overview:  
 Expectation Maximization is a statistical algorithm used for finding maximum likelihood estimates of parameters in probabilistic models, where the model depends on unobserved latent variables. Developed in 1977, it iteratively optimizes the likelihood function, handling incomplete datasets effectively.
