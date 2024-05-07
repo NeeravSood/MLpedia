@@ -37,7 +37,8 @@ Implementation (Language-Specific)
 Example code snippet or a link to a more detailed implementation in the repository.
 
 Python example
-```def algorithm_example(params):
+```
+def algorithm_example(params):
      implementation
     return result
 ```
