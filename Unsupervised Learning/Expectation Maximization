@@ -1,23 +1,23 @@
-<h2>Algorithm Name:</h2> Expectation Maximization (EM)  
-<h2>Type:</h2> Unsupervised Learning  
-<h2>Category:</h2> Clustering/Density Estimation
+**Algorithm Name:** Expectation Maximization (EM)  
+**Type:** Unsupervised Learning  
+**Category:** Clustering/Density Estimation
 
-Overview:  
+**Overview:**  
 Expectation Maximization is a statistical algorithm used for finding maximum likelihood estimates of parameters in probabilistic models, where the model depends on unobserved latent variables. Developed in 1977, it iteratively optimizes the likelihood function, handling incomplete datasets effectively.
 
-Key Concepts  
+**Key Concepts**  
 - Latent Variables: Unobserved variables that affect the observed data.
 - Maximum Likelihood Estimation: Method of estimating the parameters of a statistical model.
 - Convergence: The process where the algorithm iteratively improves parameter estimates until changes are negligible.
 
-How It Works:  
+**How It Works:**  
 1. Expectation Step: Calculate the expected value of the log-likelihood function, with respect to the conditional distribution of the latent variables given the observed data and current parameter estimates.
 2. Maximization Step: Find the parameter values that maximize the expected log-likelihood found in the E step.
 
-Mathematical Model (Optional):  
+**Mathematical Model (Optional):**  
 Not provided due to complexity and space constraints.
 
-Pseudocode:  
+**Pseudocode:**  
 ```
 initialize parameters θ
 repeat until convergence:
@@ -25,27 +25,27 @@ repeat until convergence:
     M-step: update θ to maximize Q(θ|θ_old)
 ```
 
-Implementation (Python Example):  
+**Implementation (Python Example):**  
 ```python
 def EM_algorithm(data, initial_params):
      implementation
     return updated_params
 ```
 
-Applications:  
+**Applications:**  
 - Cluster analysis in data mining
 - Learning mixture models
 - Medical image analysis
 - Bioinformatics
 
-Strengths:  
+**Strengths:**  
 - Robust to missing data
 - Flexible framework for various statistical models
 
-Limitations:  
+**Limitations:**  
 - Convergence to local, not global, maxima
 - Sensitive to initial values
 
-References and Further Reading:  
+**References and Further Reading:**
 - Dempster, A.P., Laird, N.M., & Rubin, D.B. (1977). Maximum Likelihood from Incomplete Data via the EM Algorithm.  
 - Further details on implementation and applications can be found in statistical textbooks and research papers on clustering and density estimation.
