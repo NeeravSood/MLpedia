@@ -1,4 +1,4 @@
-#**MLpedia: The Machine Learning Algorithm Encyclopedia**
+#**MLpedia: The Machine Learning Algorithm Encyclopedia**#
 
 Welcome to MLpedia, a comprehensive repository dedicated to documenting every machine learning algorithm known and developed up to date. Our goal is to provide an extensive, accessible, and universal resource for learners, educators, and practitioners in the field of machine learning.
 
