@@ -3,8 +3,7 @@
 Welcome to MLpedia, a comprehensive repository dedicated to documenting every machine learning algorithm known and developed up to date. Our goal is to provide an extensive, accessible, and universal resource for learners, educators, and practitioners in the field of machine learning.
 
 
-<h2>**About MLpedia**<h2>
-
+<h2>**About MLpedia**</h2>
 MLpedia aims to cover a wide range of machine learning algorithms from basic to advanced, spanning across various types including supervised learning, unsupervised learning, and reinforcement learning. Each entry in the repository is structured to provide a deep yet understandable insight into the algorithm, its applications, strengths, and limitations.
 
 
