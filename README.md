@@ -28,8 +28,8 @@ An easy-to-follow explanation of the algorithm's workings, broken down into mana
 <h4>Mathematical Model</h4>
 (Optional) A concise mathematical representation of the algorithm, if applicable.
 
-<h4>Pseudocode</h4>
-Implementation (Language-Specific)
+<h4>Pseudocode</h4><br>
+Implementation (Language-Specific)<br>
 Example code snippet or a link to a more detailed implementation in the repository.
 
 Python example
@@ -42,18 +42,18 @@ def algorithm_example(params):
 <h4>Applications</h4>
 List of common practical applications of the algorithm, illustrating its real-world utility.
 
-<h4>Strengths</h4>
-- Strength 1: Explanation
-- Strength 2: Explanation
+<h4>Strengths</h4><br>
+- Strength 1: Explanation<br>
+- Strength 2: Explanation<br>
 
-<h4>Limitations</h4>
-- Limitation 1: Explanation
-- Limitation 2: Explanation
+<h4>Limitations</h4><br>
+- Limitation 1: Explanation<br>
+- Limitation 2: Explanation<br>
 
-<h4>References and Further Reading</h4>
-1. Title: Link or citation
-2. Title: Link or citation
-3. Title: Link or citation
+<h4>References and Further Reading</h4><br>
+1. Title: Link or citation<br>
+2. Title: Link or citation<br>
+3. Title: Link or citation<br>
 
 
 <h1>Contributing to MLpedia</h1>
