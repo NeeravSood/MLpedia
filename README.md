@@ -8,11 +8,11 @@ Welcome to MLpedia, a comprehensive repository dedicated to documenting every ma
 MLpedia aims to cover a wide range of machine learning algorithms from basic to advanced, spanning across various types including supervised learning, unsupervised learning, and reinforcement learning. Each entry in the repository is structured to provide a deep yet understandable insight into the algorithm, its applications, strengths, and limitations.
 
 
-**Repository Structure**
+<h2>**Repository Structure**</h2>
 
 Each algorithm in MLpedia follows a standard documentation format to ensure clarity and ease of use:
 
-**Template for Algorithm Documentation**
+<h3>**Template for Algorithm Documentation**</h3>h3>
 
 **Algorithm Name:**
 **Type**: Supervised/Unsupervised/Reinforcement Learning  
@@ -60,15 +60,15 @@ List of common practical applications of the algorithm, illustrating its real-wo
 3. Title: Link or citation
 
 
-***Contributing to MLpedia***
+<h1>***Contributing to MLpedia***</h1>
 
 We welcome contributions from the community! Whether you're adding new algorithms, improving existing documentation, or providing translations, your help is invaluable. Please see our [CONTRIBUTING.md](https://github.com/NeeravSood/MLpedia/blob/main/Contributing.md) for guidelines on how to contribute.
 
-**License**
+<h1>**License**</h1>
 
 MLpedia is open-sourced under the GNU General Public License v3.0 license. For more information, refer to [License](https://github.com/NeeravSood/MLpedia/blob/main/LICENSE) 
 
-**Contact**
+<h2>**Contact**</h2>
 If you have any questions, suggestions, or want to discuss potential collaborations, please reach out to us via GitHub issues.
 
 Thank you for visiting MLpedia - your contributions and feedback help make this a valuable resource for everyone interested in machine learning!
