@@ -1,4 +1,4 @@
-# Expectation Maximization (EM)
+#Algorithm Name: Expectation Maximization (EM)
 
 **Type**: Unsupervised Learning  
 **Category**: Clustering/Density Estimation
