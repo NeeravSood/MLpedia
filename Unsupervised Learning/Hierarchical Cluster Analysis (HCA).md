@@ -1,5 +1,4 @@
-# Algorithm Name
-## Hierarchical Cluster Analysis (HCA)
+# Algorithm Name: Hierarchical Cluster Analysis (HCA)
 
 ### Type
 - Unsupervised Learning
