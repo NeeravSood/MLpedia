@@ -80,6 +80,6 @@ def elm_predict(X, input_weights, biases, output_weights):
 
 ## References and Further Reading
 
-- Huang, G.-B., et al. (2006): "Extreme learning machine: a new learning scheme of feedforward neural networks." [Link or citation]
-- Zhang, R., et al. (2015): "Theory and applications of extreme learning machine: a survey." [Link or citation]
+- Huang, G.-B., et al. (2006): "Extreme learning machine: a new learning scheme of feedforward neural networks."
+- Zhang, R., et al. (2015): "Theory and applications of extreme learning machine: a survey."
 ```
